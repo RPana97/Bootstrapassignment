@@ -1,0 +1,29 @@
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.card {
+    box-shadow: 0 0 20px 2px rgb(255, 52, 221);
+    margin: 15px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    background-color: rgb(255, 52, 221);
+}
+.dark-theme .footer {
+    background-color: #333333;
+}
+.btn-pink:hover {
+    background-color: rgb(255, 52, 221);
+}
+
+.submitbtn {
+    background-color: rgb(255, 52, 221) ;
+    border-radius: 5px;
+    border:none;
+    color:white;
+}
+.submitbtn:hover {
+    background-color:rgb(158, 46, 140);
+}
